@@ -1,0 +1,26 @@
+# Java build output
+*.class
+
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Sensitive / saved terminal output
+output.txt
+
+# Third-party dependencies and documentation
+*.jar
+lib/
+mybatis-3.5.7.pdf
+
+# Backup files
+*~
+
+# Recovery/testing
+test_connection.sql
+
+# Third-party dependency metadata
+LICENSE
+NOTICE
